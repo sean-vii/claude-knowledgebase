@@ -1,0 +1,8 @@
+# Obsidian per-machine UI state — regenerated on launch, never part of the design.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp.*
